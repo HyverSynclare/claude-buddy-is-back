@@ -1,0 +1,18 @@
+claude-buddy-is-back
+Copyright 2026 Maximilian Alexander Schardin
+
+This project is a community recreation of the "/buddy" companion feature
+that was originally part of Claude Code (https://claude.ai/claude-code),
+a product of Anthropic, PBC.
+
+The original companion system, its concept, design, and implementation
+are the intellectual property of Anthropic, PBC. This project reverse-
+engineers and reimplements the feature using Claude Code's public
+extensibility mechanisms (custom commands, CLAUDE.md, hooks).
+
+The companion data (species, rarities, stats, ASCII art, generation
+prompts) were extracted from publicly distributed Claude Code binaries
+(v2.1.92) and are attributed to Anthropic, PBC.
+
+Claude Code: https://github.com/anthropics/claude-code
+Anthropic: https://www.anthropic.com
